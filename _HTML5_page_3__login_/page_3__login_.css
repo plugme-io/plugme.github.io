@@ -1430,17 +1430,21 @@ div {
 	height: 345.17px;
 }
 
+
 #bringing_all_your_multi_media_content_together {
-	top: 0px;
+	top: 15px;
 	left: 5px;
 	width: 630.61px;
 	height: 250.12px;
-	overflow: hidden;
 	font-family: poppins;
 	font-size: 56px;
 	text-align: left;
 	line-height: 74.76000213623px;
 	color: #000000;
+	line-height: 30px;
+	font-weight: bolder;
+	position: absolute;
+
 }
 
 
@@ -1680,7 +1684,7 @@ div {
 
 
 #rectangle_2707 {
-	top: 44px;
+	top: 0px;
 	left: 0px;
 	width: 122.98px;
 	height: 44.7px;
@@ -1709,7 +1713,7 @@ div {
 
 
 #rectangle_2707_ek1 {
-	top: 44px;
+	top: 0px;
 	left: 0px;
 	width: 122.98px;
 	height: 44.7px;
@@ -1730,7 +1734,7 @@ div {
 }
 
 #rectangle_2707_ek2 {
-	top: 44px;
+	top: 0px;
 	left: 0px;
 	width: 122.98px;
 	height: 44.7px;
